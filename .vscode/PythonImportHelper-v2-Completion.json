@@ -1,0 +1,1082 @@
+[
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "current_app",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Namespace",
+        "importPath": "flask_restx",
+        "description": "flask_restx",
+        "isExtraImport": true,
+        "detail": "flask_restx",
+        "documentation": {}
+    },
+    {
+        "label": "Resource",
+        "importPath": "flask_restx",
+        "description": "flask_restx",
+        "isExtraImport": true,
+        "detail": "flask_restx",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "flask_restx",
+        "description": "flask_restx",
+        "isExtraImport": true,
+        "detail": "flask_restx",
+        "documentation": {}
+    },
+    {
+        "label": "Namespace",
+        "importPath": "flask_restx",
+        "description": "flask_restx",
+        "isExtraImport": true,
+        "detail": "flask_restx",
+        "documentation": {}
+    },
+    {
+        "label": "Resource",
+        "importPath": "flask_restx",
+        "description": "flask_restx",
+        "isExtraImport": true,
+        "detail": "flask_restx",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "flask_restx",
+        "description": "flask_restx",
+        "isExtraImport": true,
+        "detail": "flask_restx",
+        "documentation": {}
+    },
+    {
+        "label": "Namespace",
+        "importPath": "flask_restx",
+        "description": "flask_restx",
+        "isExtraImport": true,
+        "detail": "flask_restx",
+        "documentation": {}
+    },
+    {
+        "label": "Resource",
+        "importPath": "flask_restx",
+        "description": "flask_restx",
+        "isExtraImport": true,
+        "detail": "flask_restx",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "flask_restx",
+        "description": "flask_restx",
+        "isExtraImport": true,
+        "detail": "flask_restx",
+        "documentation": {}
+    },
+    {
+        "label": "Namespace",
+        "importPath": "flask_restx",
+        "description": "flask_restx",
+        "isExtraImport": true,
+        "detail": "flask_restx",
+        "documentation": {}
+    },
+    {
+        "label": "Resource",
+        "importPath": "flask_restx",
+        "description": "flask_restx",
+        "isExtraImport": true,
+        "detail": "flask_restx",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "flask_restx",
+        "description": "flask_restx",
+        "isExtraImport": true,
+        "detail": "flask_restx",
+        "documentation": {}
+    },
+    {
+        "label": "Namespace",
+        "importPath": "flask_restx",
+        "description": "flask_restx",
+        "isExtraImport": true,
+        "detail": "flask_restx",
+        "documentation": {}
+    },
+    {
+        "label": "Resource",
+        "importPath": "flask_restx",
+        "description": "flask_restx",
+        "isExtraImport": true,
+        "detail": "flask_restx",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "flask_restx",
+        "description": "flask_restx",
+        "isExtraImport": true,
+        "detail": "flask_restx",
+        "documentation": {}
+    },
+    {
+        "label": "Namespace",
+        "importPath": "flask_restx",
+        "description": "flask_restx",
+        "isExtraImport": true,
+        "detail": "flask_restx",
+        "documentation": {}
+    },
+    {
+        "label": "Resource",
+        "importPath": "flask_restx",
+        "description": "flask_restx",
+        "isExtraImport": true,
+        "detail": "flask_restx",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "flask_restx",
+        "description": "flask_restx",
+        "isExtraImport": true,
+        "detail": "flask_restx",
+        "documentation": {}
+    },
+    {
+        "label": "Namespace",
+        "importPath": "flask_restx",
+        "description": "flask_restx",
+        "isExtraImport": true,
+        "detail": "flask_restx",
+        "documentation": {}
+    },
+    {
+        "label": "Resource",
+        "importPath": "flask_restx",
+        "description": "flask_restx",
+        "isExtraImport": true,
+        "detail": "flask_restx",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "flask_restx",
+        "description": "flask_restx",
+        "isExtraImport": true,
+        "detail": "flask_restx",
+        "documentation": {}
+    },
+    {
+        "label": "ClienteService",
+        "importPath": "app.services.cliente_service",
+        "description": "app.services.cliente_service",
+        "isExtraImport": true,
+        "detail": "app.services.cliente_service",
+        "documentation": {}
+    },
+    {
+        "label": "DetalleOrdenCompraService",
+        "importPath": "app.services.detalle_orden_compra_service",
+        "description": "app.services.detalle_orden_compra_service",
+        "isExtraImport": true,
+        "detail": "app.services.detalle_orden_compra_service",
+        "documentation": {}
+    },
+    {
+        "label": "DetalleOrdenVentaService",
+        "importPath": "app.services.detalle_orden_venta_service",
+        "description": "app.services.detalle_orden_venta_service",
+        "isExtraImport": true,
+        "detail": "app.services.detalle_orden_venta_service",
+        "documentation": {}
+    },
+    {
+        "label": "OrdenCompraService",
+        "importPath": "app.services.orden_compra_service",
+        "description": "app.services.orden_compra_service",
+        "isExtraImport": true,
+        "detail": "app.services.orden_compra_service",
+        "documentation": {}
+    },
+    {
+        "label": "OrdenVentaService",
+        "importPath": "app.services.orden_venta_service",
+        "description": "app.services.orden_venta_service",
+        "isExtraImport": true,
+        "detail": "app.services.orden_venta_service",
+        "documentation": {}
+    },
+    {
+        "label": "ProductoService",
+        "importPath": "app.services.producto_service",
+        "description": "app.services.producto_service",
+        "isExtraImport": true,
+        "detail": "app.services.producto_service",
+        "documentation": {}
+    },
+    {
+        "label": "ProveedorService",
+        "importPath": "app.services.proveedor_service",
+        "description": "app.services.proveedor_service",
+        "isExtraImport": true,
+        "detail": "app.services.proveedor_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_jwt_identity",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "wraps",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "UserService",
+        "importPath": "app.services.user_service",
+        "description": "app.services.user_service",
+        "isExtraImport": true,
+        "detail": "app.services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "create_app",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "Cliente",
+        "importPath": "app.models.cliente",
+        "description": "app.models.cliente",
+        "isExtraImport": true,
+        "detail": "app.models.cliente",
+        "documentation": {}
+    },
+    {
+        "label": "Cliente",
+        "importPath": "app.models.cliente",
+        "description": "app.models.cliente",
+        "isExtraImport": true,
+        "detail": "app.models.cliente",
+        "documentation": {}
+    },
+    {
+        "label": "DetalleOrdenCompra",
+        "importPath": "app.models.detalleOrdenCompra",
+        "description": "app.models.detalleOrdenCompra",
+        "isExtraImport": true,
+        "detail": "app.models.detalleOrdenCompra",
+        "documentation": {}
+    },
+    {
+        "label": "OrdenCompra",
+        "importPath": "app.models.ordenCompra",
+        "description": "app.models.ordenCompra",
+        "isExtraImport": true,
+        "detail": "app.models.ordenCompra",
+        "documentation": {}
+    },
+    {
+        "label": "OrdenCompra",
+        "importPath": "app.models.ordenCompra",
+        "description": "app.models.ordenCompra",
+        "isExtraImport": true,
+        "detail": "app.models.ordenCompra",
+        "documentation": {}
+    },
+    {
+        "label": "Producto",
+        "importPath": "app.models.producto",
+        "description": "app.models.producto",
+        "isExtraImport": true,
+        "detail": "app.models.producto",
+        "documentation": {}
+    },
+    {
+        "label": "Producto",
+        "importPath": "app.models.producto",
+        "description": "app.models.producto",
+        "isExtraImport": true,
+        "detail": "app.models.producto",
+        "documentation": {}
+    },
+    {
+        "label": "Producto",
+        "importPath": "app.models.producto",
+        "description": "app.models.producto",
+        "isExtraImport": true,
+        "detail": "app.models.producto",
+        "documentation": {}
+    },
+    {
+        "label": "DetalleOrdenVenta",
+        "importPath": "app.models.detalleOrdenVenta",
+        "description": "app.models.detalleOrdenVenta",
+        "isExtraImport": true,
+        "detail": "app.models.detalleOrdenVenta",
+        "documentation": {}
+    },
+    {
+        "label": "OrdenVenta",
+        "importPath": "app.models.ordenVenta",
+        "description": "app.models.ordenVenta",
+        "isExtraImport": true,
+        "detail": "app.models.ordenVenta",
+        "documentation": {}
+    },
+    {
+        "label": "OrdenVenta",
+        "importPath": "app.models.ordenVenta",
+        "description": "app.models.ordenVenta",
+        "isExtraImport": true,
+        "detail": "app.models.ordenVenta",
+        "documentation": {}
+    },
+    {
+        "label": "Proveedor",
+        "importPath": "app.models.proveedor",
+        "description": "app.models.proveedor",
+        "isExtraImport": true,
+        "detail": "app.models.proveedor",
+        "documentation": {}
+    },
+    {
+        "label": "Proveedor",
+        "importPath": "app.models.proveedor",
+        "description": "app.models.proveedor",
+        "isExtraImport": true,
+        "detail": "app.models.proveedor",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "fileConfig",
+        "importPath": "logging.config",
+        "description": "logging.config",
+        "isExtraImport": true,
+        "detail": "logging.config",
+        "documentation": {}
+    },
+    {
+        "label": "context",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "ClienteResource",
+        "kind": 6,
+        "importPath": "app.controllers.cliente_controller",
+        "description": "app.controllers.cliente_controller",
+        "peekOfCode": "class ClienteResource(Resource):\n    @cliente_ns.doc('create_cliente')  # Docstring para documentar la operación.\n    @cliente_ns.expect(cliente_model, validate=True)  # Espera el modelo definido anteriormente.\n    def post(self):\n        \"\"\"\n        Crear un nuevo cliente\n        ---\n        Este método permite crear un nuevo cliente proporcionando su información.\n        Responses:\n        - 201: Cliente creado con éxito.",
+        "detail": "app.controllers.cliente_controller",
+        "documentation": {}
+    },
+    {
+        "label": "ClienteDetailResource",
+        "kind": 6,
+        "importPath": "app.controllers.cliente_controller",
+        "description": "app.controllers.cliente_controller",
+        "peekOfCode": "class ClienteDetailResource(Resource):\n    @cliente_ns.doc('update_cliente')  # Docstring para documentar la operación de actualización.\n    @cliente_ns.expect(cliente_model, validate=True)  # Espera el modelo definido anteriormente.\n    def put(self, id_cliente):\n        \"\"\"\n        Actualizar un cliente\n        ---\n        Este método permite actualizar la información de un cliente basado en su ID.\n        Responses:\n        - 200: Cliente actualizado con éxito.",
+        "detail": "app.controllers.cliente_controller",
+        "documentation": {}
+    },
+    {
+        "label": "cliente_ns",
+        "kind": 5,
+        "importPath": "app.controllers.cliente_controller",
+        "description": "app.controllers.cliente_controller",
+        "peekOfCode": "cliente_ns = Namespace('Clientes', description='Operaciones relacionadas con los clientes')\n# Definir el modelo de cliente para la documentación de Swagger.\n# Este modelo describe la estructura de los datos que se esperan al crear o actualizar un cliente.\ncliente_model = cliente_ns.model('Cliente', {\n    'nombre': fields.String(required=True, description='Nombre del cliente'),  # Nombre del cliente, requerido.\n    'contacto': fields.String(required=True, description='Nombre de contacto'),  # Nombre de contacto, requerido.\n    'telefono': fields.String(required=True, description='Teléfono del cliente'),  # Teléfono, requerido.\n    'direccion': fields.String(required=True, description='Dirección del cliente'),  # Dirección, requerida.\n})\n@cliente_ns.route('/')  # Define la ruta base para las operaciones de cliente.",
+        "detail": "app.controllers.cliente_controller",
+        "documentation": {}
+    },
+    {
+        "label": "cliente_model",
+        "kind": 5,
+        "importPath": "app.controllers.cliente_controller",
+        "description": "app.controllers.cliente_controller",
+        "peekOfCode": "cliente_model = cliente_ns.model('Cliente', {\n    'nombre': fields.String(required=True, description='Nombre del cliente'),  # Nombre del cliente, requerido.\n    'contacto': fields.String(required=True, description='Nombre de contacto'),  # Nombre de contacto, requerido.\n    'telefono': fields.String(required=True, description='Teléfono del cliente'),  # Teléfono, requerido.\n    'direccion': fields.String(required=True, description='Dirección del cliente'),  # Dirección, requerida.\n})\n@cliente_ns.route('/')  # Define la ruta base para las operaciones de cliente.\nclass ClienteResource(Resource):\n    @cliente_ns.doc('create_cliente')  # Docstring para documentar la operación.\n    @cliente_ns.expect(cliente_model, validate=True)  # Espera el modelo definido anteriormente.",
+        "detail": "app.controllers.cliente_controller",
+        "documentation": {}
+    },
+    {
+        "label": "DetalleOrdenCompraResource",
+        "kind": 6,
+        "importPath": "app.controllers.detalle_orden_compra_controller",
+        "description": "app.controllers.detalle_orden_compra_controller",
+        "peekOfCode": "class DetalleOrdenCompraResource(Resource):\n    @detalle_orden_compra_ns.doc('create_detalle_orden_compra')  # Docstring para documentar la operación de creación.\n    @detalle_orden_compra_ns.expect(detalle_model, validate=True)  # Espera el modelo definido anteriormente.\n    def post(self):\n        \"\"\"\n        Crear un nuevo detalle de orden de compra\n        ---\n        Este método permite crear un nuevo detalle de orden de compra proporcionando su información.\n        Responses:\n        - 201: Detalle de orden de compra creado con éxito.",
+        "detail": "app.controllers.detalle_orden_compra_controller",
+        "documentation": {}
+    },
+    {
+        "label": "DetalleOrdenCompraDetailResource",
+        "kind": 6,
+        "importPath": "app.controllers.detalle_orden_compra_controller",
+        "description": "app.controllers.detalle_orden_compra_controller",
+        "peekOfCode": "class DetalleOrdenCompraDetailResource(Resource):\n    @detalle_orden_compra_ns.doc('update_detalle_orden_compra')  # Docstring para documentar la operación de actualización.\n    @detalle_orden_compra_ns.expect(detalle_model, validate=True)  # Espera el modelo definido anteriormente.\n    def put(self, id_detalle):\n        \"\"\"\n        Actualizar un detalle de orden de compra\n        ---\n        Este método permite actualizar la información de un detalle de orden de compra basado en su ID.\n        Responses:\n        - 200: Detalle de orden de compra actualizado con éxito.",
+        "detail": "app.controllers.detalle_orden_compra_controller",
+        "documentation": {}
+    },
+    {
+        "label": "detalle_orden_compra_ns",
+        "kind": 5,
+        "importPath": "app.controllers.detalle_orden_compra_controller",
+        "description": "app.controllers.detalle_orden_compra_controller",
+        "peekOfCode": "detalle_orden_compra_ns = Namespace('Detalles de ordenes de compra', description='Operaciones relacionadas con los detalles de órdenes de compra')\n# Definir el modelo de detalle de orden de compra para la documentación de Swagger.\n# Este modelo describe la estructura de los datos que se esperan al crear o actualizar un detalle de orden de compra.\ndetalle_model = detalle_orden_compra_ns.model('DetalleOrdenCompra', {\n    'id_orden_compra': fields.Integer(required=True, description='ID de la orden de compra'),  # ID de la orden de compra, requerido.\n    'id_producto': fields.Integer(required=True, description='ID del producto'),  # ID del producto, requerido.\n    'cantidad': fields.Integer(required=True, description='Cantidad del producto'),  # Cantidad del producto, requerida.\n})\n@detalle_orden_compra_ns.route('/')  # Define la ruta base para las operaciones de detalle de orden de compra.\nclass DetalleOrdenCompraResource(Resource):",
+        "detail": "app.controllers.detalle_orden_compra_controller",
+        "documentation": {}
+    },
+    {
+        "label": "detalle_model",
+        "kind": 5,
+        "importPath": "app.controllers.detalle_orden_compra_controller",
+        "description": "app.controllers.detalle_orden_compra_controller",
+        "peekOfCode": "detalle_model = detalle_orden_compra_ns.model('DetalleOrdenCompra', {\n    'id_orden_compra': fields.Integer(required=True, description='ID de la orden de compra'),  # ID de la orden de compra, requerido.\n    'id_producto': fields.Integer(required=True, description='ID del producto'),  # ID del producto, requerido.\n    'cantidad': fields.Integer(required=True, description='Cantidad del producto'),  # Cantidad del producto, requerida.\n})\n@detalle_orden_compra_ns.route('/')  # Define la ruta base para las operaciones de detalle de orden de compra.\nclass DetalleOrdenCompraResource(Resource):\n    @detalle_orden_compra_ns.doc('create_detalle_orden_compra')  # Docstring para documentar la operación de creación.\n    @detalle_orden_compra_ns.expect(detalle_model, validate=True)  # Espera el modelo definido anteriormente.\n    def post(self):",
+        "detail": "app.controllers.detalle_orden_compra_controller",
+        "documentation": {}
+    },
+    {
+        "label": "DetalleOrdenVentaResource",
+        "kind": 6,
+        "importPath": "app.controllers.detalle_orden_venta_controller",
+        "description": "app.controllers.detalle_orden_venta_controller",
+        "peekOfCode": "class DetalleOrdenVentaResource(Resource):\n    @detalle_orden_venta_ns.doc(\"create_detalle_orden_venta\")  # Docstring para documentar la operación de creación.\n    @detalle_orden_venta_ns.expect(detalle_model, validate=True)  # Espera el modelo definido anteriormente.\n    def post(self):\n        \"\"\"\n        Crear un nuevo detalle de orden de venta\n        ---\n        Este método permite crear un nuevo detalle de orden de venta proporcionando su información.\n        Responses:\n        - 201: Detalle de orden de venta creado con éxito.",
+        "detail": "app.controllers.detalle_orden_venta_controller",
+        "documentation": {}
+    },
+    {
+        "label": "DetalleOrdenVentaDetailResource",
+        "kind": 6,
+        "importPath": "app.controllers.detalle_orden_venta_controller",
+        "description": "app.controllers.detalle_orden_venta_controller",
+        "peekOfCode": "class DetalleOrdenVentaDetailResource(Resource):\n    @detalle_orden_venta_ns.doc('update_detalle_orden_venta')  # Docstring para documentar la operación de actualización.\n    @detalle_orden_venta_ns.expect(detalle_model, validate=True)  # Espera el modelo definido anteriormente.\n    def put(self, id_detalle):\n        \"\"\"\n        Actualizar un detalle de orden de venta\n        ---\n        Este método permite actualizar la información de un detalle de orden de venta basado en su ID.\n        Responses:\n        - 200: Detalle de orden de venta actualizado con éxito.",
+        "detail": "app.controllers.detalle_orden_venta_controller",
+        "documentation": {}
+    },
+    {
+        "label": "detalle_orden_venta_ns",
+        "kind": 5,
+        "importPath": "app.controllers.detalle_orden_venta_controller",
+        "description": "app.controllers.detalle_orden_venta_controller",
+        "peekOfCode": "detalle_orden_venta_ns = Namespace(\"Detalles de ordenes de venta\",\n    description=\"Operaciones relacionadas con los detalles de órdenes de venta\",\n)\n# Definir el modelo de detalle de orden de venta para la documentación de Swagger.\n# Este modelo describe cómo deben lucir los datos para crear o actualizar un detalle de orden de venta.\ndetalle_model = detalle_orden_venta_ns.model(\n    \"DetalleOrdenVenta\",\n    {\n        \"id_orden_venta\": fields.Integer(\n            required=True, description=\"ID de la orden de venta\"  # ID de la orden de venta, requerido.",
+        "detail": "app.controllers.detalle_orden_venta_controller",
+        "documentation": {}
+    },
+    {
+        "label": "detalle_model",
+        "kind": 5,
+        "importPath": "app.controllers.detalle_orden_venta_controller",
+        "description": "app.controllers.detalle_orden_venta_controller",
+        "peekOfCode": "detalle_model = detalle_orden_venta_ns.model(\n    \"DetalleOrdenVenta\",\n    {\n        \"id_orden_venta\": fields.Integer(\n            required=True, description=\"ID de la orden de venta\"  # ID de la orden de venta, requerido.\n        ),\n        \"id_producto\": fields.Integer(required=True, description=\"ID del producto\"),  # ID del producto, requerido.\n        \"cantidad\": fields.Integer(required=True, description=\"Cantidad del producto\"),  # Cantidad del producto, requerida.\n    },\n)",
+        "detail": "app.controllers.detalle_orden_venta_controller",
+        "documentation": {}
+    },
+    {
+        "label": "OrdenCompraResource",
+        "kind": 6,
+        "importPath": "app.controllers.orden_compra_controller",
+        "description": "app.controllers.orden_compra_controller",
+        "peekOfCode": "class OrdenCompraResource(Resource):\n    @orden_compra_ns.doc('create_orden_compra')  # Documenta la operación de creación de la orden de compra.\n    @orden_compra_ns.expect(orden_compra_model, validate=True)  # Espera un modelo válido para la creación.\n    def post(self):\n        \"\"\"\n        Crear una nueva orden de compra\n        ---\n        Este método permite crear una nueva orden de compra proporcionando su información.\n        Responses:\n        - 201: Orden de compra creada con éxito.",
+        "detail": "app.controllers.orden_compra_controller",
+        "documentation": {}
+    },
+    {
+        "label": "OrdenCompraDetailResource",
+        "kind": 6,
+        "importPath": "app.controllers.orden_compra_controller",
+        "description": "app.controllers.orden_compra_controller",
+        "peekOfCode": "class OrdenCompraDetailResource(Resource):\n    @orden_compra_ns.doc('update_orden_compra')  # Documenta la operación de actualización de la orden de compra.\n    @orden_compra_ns.expect(orden_compra_model, validate=True)  # Espera un modelo válido para la actualización.\n    def put(self, id_orden_compra):\n        \"\"\"\n        Actualizar una orden de compra\n        ---\n        Este método permite actualizar la información de una orden de compra basada en su ID.\n        Responses:\n        - 200: Orden de compra actualizada con éxito.",
+        "detail": "app.controllers.orden_compra_controller",
+        "documentation": {}
+    },
+    {
+        "label": "orden_compra_ns",
+        "kind": 5,
+        "importPath": "app.controllers.orden_compra_controller",
+        "description": "app.controllers.orden_compra_controller",
+        "peekOfCode": "orden_compra_ns = Namespace('Ordenes de compra', description='Operaciones relacionadas con las órdenes de compra')\n# Definir el modelo de orden de compra para la documentación de Swagger.\n# Este modelo describe la estructura de los datos que se enviarán al crear o actualizar una orden de compra.\norden_compra_model = orden_compra_ns.model('OrdenCompra', {\n    'fecha_inicio': fields.Date(required=True, description='Fecha de inicio de la orden'),  # Fecha de inicio, requerida.\n    'fecha_final': fields.Date(required=True, description='Fecha final de la orden'),  # Fecha final, requerida.\n    'estado': fields.String(required=True, description='Estado de la orden'),  # Estado de la orden, requerido.\n    'id_proveedor': fields.Integer(required=True, description='ID del proveedor asociado'),  # ID del proveedor, requerido.\n})\n@orden_compra_ns.route('/')  # Define la ruta base para las operaciones de órdenes de compra.",
+        "detail": "app.controllers.orden_compra_controller",
+        "documentation": {}
+    },
+    {
+        "label": "orden_compra_model",
+        "kind": 5,
+        "importPath": "app.controllers.orden_compra_controller",
+        "description": "app.controllers.orden_compra_controller",
+        "peekOfCode": "orden_compra_model = orden_compra_ns.model('OrdenCompra', {\n    'fecha_inicio': fields.Date(required=True, description='Fecha de inicio de la orden'),  # Fecha de inicio, requerida.\n    'fecha_final': fields.Date(required=True, description='Fecha final de la orden'),  # Fecha final, requerida.\n    'estado': fields.String(required=True, description='Estado de la orden'),  # Estado de la orden, requerido.\n    'id_proveedor': fields.Integer(required=True, description='ID del proveedor asociado'),  # ID del proveedor, requerido.\n})\n@orden_compra_ns.route('/')  # Define la ruta base para las operaciones de órdenes de compra.\nclass OrdenCompraResource(Resource):\n    @orden_compra_ns.doc('create_orden_compra')  # Documenta la operación de creación de la orden de compra.\n    @orden_compra_ns.expect(orden_compra_model, validate=True)  # Espera un modelo válido para la creación.",
+        "detail": "app.controllers.orden_compra_controller",
+        "documentation": {}
+    },
+    {
+        "label": "OrdenVentaResource",
+        "kind": 6,
+        "importPath": "app.controllers.orden_venta_controller",
+        "description": "app.controllers.orden_venta_controller",
+        "peekOfCode": "class OrdenVentaResource(Resource):\n    @orden_venta_ns.doc('create_orden_venta')  # Documenta la operación de creación de la orden de venta.\n    @orden_venta_ns.expect(orden_venta_model, validate=True)  # Espera un modelo válido para la creación.\n    def post(self):\n        \"\"\"\n        Crear una nueva orden de venta\n        ---\n        Este método permite crear una nueva orden de venta proporcionando su información.\n        Responses:\n        - 201: Orden de venta creada con éxito.",
+        "detail": "app.controllers.orden_venta_controller",
+        "documentation": {}
+    },
+    {
+        "label": "OrdenVentaDetailResource",
+        "kind": 6,
+        "importPath": "app.controllers.orden_venta_controller",
+        "description": "app.controllers.orden_venta_controller",
+        "peekOfCode": "class OrdenVentaDetailResource(Resource):\n    @orden_venta_ns.doc('update_orden_venta')  # Documenta la operación de actualización de la orden de venta.\n    @orden_venta_ns.expect(orden_venta_model, validate=True)  # Espera un modelo válido para la actualización.\n    def put(self, id_orden_venta):\n        \"\"\"\n        Actualizar una orden de venta\n        ---\n        Este método permite actualizar la información de una orden de venta basada en su ID.\n        Responses:\n        - 200: Orden de venta actualizada con éxito.",
+        "detail": "app.controllers.orden_venta_controller",
+        "documentation": {}
+    },
+    {
+        "label": "orden_venta_ns",
+        "kind": 5,
+        "importPath": "app.controllers.orden_venta_controller",
+        "description": "app.controllers.orden_venta_controller",
+        "peekOfCode": "orden_venta_ns = Namespace('Ordenes de venta', description='Operaciones relacionadas con las órdenes de venta')\n# Definir el modelo de orden de venta para la documentación de Swagger.\n# Este modelo describe la estructura de los datos que se enviarán al crear o actualizar una orden de venta.\norden_venta_model = orden_venta_ns.model('OrdenVenta', {\n    'fecha_inicio': fields.Date(required=True, description='Fecha de inicio de la orden'),  # Fecha de inicio, requerida.\n    'fecha_final': fields.Date(required=True, description='Fecha final de la orden'),  # Fecha final, requerida.\n    'estado': fields.String(required=True, description='Estado de la orden'),  # Estado de la orden, requerido.\n    'id_cliente': fields.Integer(required=True, description='ID del cliente asociado'),  # ID del cliente, requerido.\n})\n@orden_venta_ns.route('/')  # Define la ruta base para las operaciones de órdenes de venta.",
+        "detail": "app.controllers.orden_venta_controller",
+        "documentation": {}
+    },
+    {
+        "label": "orden_venta_model",
+        "kind": 5,
+        "importPath": "app.controllers.orden_venta_controller",
+        "description": "app.controllers.orden_venta_controller",
+        "peekOfCode": "orden_venta_model = orden_venta_ns.model('OrdenVenta', {\n    'fecha_inicio': fields.Date(required=True, description='Fecha de inicio de la orden'),  # Fecha de inicio, requerida.\n    'fecha_final': fields.Date(required=True, description='Fecha final de la orden'),  # Fecha final, requerida.\n    'estado': fields.String(required=True, description='Estado de la orden'),  # Estado de la orden, requerido.\n    'id_cliente': fields.Integer(required=True, description='ID del cliente asociado'),  # ID del cliente, requerido.\n})\n@orden_venta_ns.route('/')  # Define la ruta base para las operaciones de órdenes de venta.\nclass OrdenVentaResource(Resource):\n    @orden_venta_ns.doc('create_orden_venta')  # Documenta la operación de creación de la orden de venta.\n    @orden_venta_ns.expect(orden_venta_model, validate=True)  # Espera un modelo válido para la creación.",
+        "detail": "app.controllers.orden_venta_controller",
+        "documentation": {}
+    },
+    {
+        "label": "ProductoResource",
+        "kind": 6,
+        "importPath": "app.controllers.producto_controller",
+        "description": "app.controllers.producto_controller",
+        "peekOfCode": "class ProductoResource(Resource):\n    @producto_ns.doc('create_producto')  # Documenta la operación de creación del producto.\n    @producto_ns.expect(producto_model, validate=True)  # Espera un modelo válido para la creación.\n    def post(self):\n        \"\"\"\n        Crear un nuevo producto\n        ---\n        Este método permite crear un nuevo producto proporcionando su información.\n        Responses:\n        - 201: Producto creado con éxito.",
+        "detail": "app.controllers.producto_controller",
+        "documentation": {}
+    },
+    {
+        "label": "ProductoDetailResource",
+        "kind": 6,
+        "importPath": "app.controllers.producto_controller",
+        "description": "app.controllers.producto_controller",
+        "peekOfCode": "class ProductoDetailResource(Resource):\n    @producto_ns.doc('update_producto')  # Documenta la operación de actualización del producto.\n    @producto_ns.expect(producto_model, validate=True)  # Espera un modelo válido para la actualización.\n    def put(self, id_producto):\n        \"\"\"\n        Actualizar un producto\n        ---\n        Este método permite actualizar la información de un producto basado en su ID.\n        Responses:\n        - 200: Producto actualizado con éxito.",
+        "detail": "app.controllers.producto_controller",
+        "documentation": {}
+    },
+    {
+        "label": "producto_ns",
+        "kind": 5,
+        "importPath": "app.controllers.producto_controller",
+        "description": "app.controllers.producto_controller",
+        "peekOfCode": "producto_ns = Namespace('Productos', description='Operaciones relacionadas con los productos')\n# Definir el modelo de producto para la documentación de Swagger.\n# Este modelo describe la estructura de los datos que se enviarán al crear o actualizar un producto.\nproducto_model = producto_ns.model('Producto', {\n    'nombre': fields.String(required=True, description='Nombre del producto'),  # Nombre del producto, requerido.\n    'costo': fields.Float(required=True, description='Costo del producto'),  # Costo del producto, requerido.\n    'precio_venta': fields.Float(required=True, description='Precio de venta del producto'),  # Precio de venta, requerido.\n    'cantidad': fields.Integer(required=True, description='Cantidad disponible del producto'),  # Cantidad disponible, requerido.\n})\n@producto_ns.route('/')  # Define la ruta base para las operaciones de productos.",
+        "detail": "app.controllers.producto_controller",
+        "documentation": {}
+    },
+    {
+        "label": "producto_model",
+        "kind": 5,
+        "importPath": "app.controllers.producto_controller",
+        "description": "app.controllers.producto_controller",
+        "peekOfCode": "producto_model = producto_ns.model('Producto', {\n    'nombre': fields.String(required=True, description='Nombre del producto'),  # Nombre del producto, requerido.\n    'costo': fields.Float(required=True, description='Costo del producto'),  # Costo del producto, requerido.\n    'precio_venta': fields.Float(required=True, description='Precio de venta del producto'),  # Precio de venta, requerido.\n    'cantidad': fields.Integer(required=True, description='Cantidad disponible del producto'),  # Cantidad disponible, requerido.\n})\n@producto_ns.route('/')  # Define la ruta base para las operaciones de productos.\nclass ProductoResource(Resource):\n    @producto_ns.doc('create_producto')  # Documenta la operación de creación del producto.\n    @producto_ns.expect(producto_model, validate=True)  # Espera un modelo válido para la creación.",
+        "detail": "app.controllers.producto_controller",
+        "documentation": {}
+    },
+    {
+        "label": "ProveedorResource",
+        "kind": 6,
+        "importPath": "app.controllers.proveedor_controller",
+        "description": "app.controllers.proveedor_controller",
+        "peekOfCode": "class ProveedorResource(Resource):\n    @proveedor_ns.doc('create_proveedor')  # Documenta la operación de creación del proveedor.\n    @proveedor_ns.expect(proveedor_model, validate=True)  # Espera un modelo válido para la creación.\n    def post(self):\n        \"\"\"\n        Crear un nuevo proveedor\n        ---\n        Este método permite crear un nuevo proveedor proporcionando su información.\n        Responses:\n        - 201: Proveedor creado con éxito.",
+        "detail": "app.controllers.proveedor_controller",
+        "documentation": {}
+    },
+    {
+        "label": "ProveedorDetailResource",
+        "kind": 6,
+        "importPath": "app.controllers.proveedor_controller",
+        "description": "app.controllers.proveedor_controller",
+        "peekOfCode": "class ProveedorDetailResource(Resource):\n    @proveedor_ns.doc('update_proveedor')  # Documenta la operación de actualización del proveedor.\n    @proveedor_ns.expect(proveedor_model, validate=True)  # Espera un modelo válido para la actualización.\n    def put(self, id_proveedor):\n        \"\"\"\n        Actualizar un proveedor\n        ---\n        Este método permite actualizar la información de un proveedor basado en su ID.\n        Responses:\n        - 200: Proveedor actualizado con éxito.",
+        "detail": "app.controllers.proveedor_controller",
+        "documentation": {}
+    },
+    {
+        "label": "proveedor_ns",
+        "kind": 5,
+        "importPath": "app.controllers.proveedor_controller",
+        "description": "app.controllers.proveedor_controller",
+        "peekOfCode": "proveedor_ns = Namespace('Proveedores', description='Operaciones relacionadas con los proveedores')\n# Definir el modelo de proveedor para la documentación de Swagger.\n# Este modelo describe la estructura de los datos que se enviarán al crear o actualizar un proveedor.\nproveedor_model = proveedor_ns.model('Proveedor', {\n    'nombre': fields.String(required=True, description='Nombre del proveedor'),  # Nombre del proveedor, requerido.\n    'contacto': fields.String(required=True, description='Nombre de contacto'),  # Nombre de contacto, requerido.\n    'telefono': fields.String(required=True, description='Teléfono del proveedor'),  # Teléfono del proveedor, requerido.\n    'direccion': fields.String(required=True, description='Dirección del proveedor'),  # Dirección del proveedor, requerido.\n})\n@proveedor_ns.route('/')  # Define la ruta base para las operaciones de proveedores.",
+        "detail": "app.controllers.proveedor_controller",
+        "documentation": {}
+    },
+    {
+        "label": "proveedor_model",
+        "kind": 5,
+        "importPath": "app.controllers.proveedor_controller",
+        "description": "app.controllers.proveedor_controller",
+        "peekOfCode": "proveedor_model = proveedor_ns.model('Proveedor', {\n    'nombre': fields.String(required=True, description='Nombre del proveedor'),  # Nombre del proveedor, requerido.\n    'contacto': fields.String(required=True, description='Nombre de contacto'),  # Nombre de contacto, requerido.\n    'telefono': fields.String(required=True, description='Teléfono del proveedor'),  # Teléfono del proveedor, requerido.\n    'direccion': fields.String(required=True, description='Dirección del proveedor'),  # Dirección del proveedor, requerido.\n})\n@proveedor_ns.route('/')  # Define la ruta base para las operaciones de proveedores.\nclass ProveedorResource(Resource):\n    @proveedor_ns.doc('create_proveedor')  # Documenta la operación de creación del proveedor.\n    @proveedor_ns.expect(proveedor_model, validate=True)  # Espera un modelo válido para la creación.",
+        "detail": "app.controllers.proveedor_controller",
+        "documentation": {}
+    },
+    {
+        "label": "role_required",
+        "kind": 2,
+        "importPath": "app.middlewares.auth_middleware",
+        "description": "app.middlewares.auth_middleware",
+        "peekOfCode": "def role_required(required_role):\n    \"\"\"\n    Middleware personalizado para verificar si el usuario autenticado tiene un rol específico.\n    Args:\n        required_role (str): El rol requerido que el usuario debe tener para acceder al recurso.\n    Returns:\n        Función decoradora que protege el endpoint y restringe el acceso si el usuario no tiene el rol adecuado.\n    \"\"\"\n    def decorator(func):\n        @wraps(func)  # Mantiene el nombre y la docstring original de la función decorada",
+        "detail": "app.middlewares.auth_middleware",
+        "documentation": {}
+    },
+    {
+        "label": "Cliente",
+        "kind": 6,
+        "importPath": "app.models.cliente",
+        "description": "app.models.cliente",
+        "peekOfCode": "class Cliente(db.Model):\n    \"\"\"\n    Modelo que representa un cliente en el sistema.\n    Cada cliente tiene un nombre, un contacto, un teléfono y una dirección.\n    Atributos:\n        id_cliente (int): Identificador único del cliente (clave primaria).\n        nombre (str): Nombre del cliente.\n        contacto (str): Nombre de la persona de contacto.\n        telefono (str): Número de teléfono del cliente.\n        direccion (str): Dirección del cliente.",
+        "detail": "app.models.cliente",
+        "documentation": {}
+    },
+    {
+        "label": "DetalleOrdenCompra",
+        "kind": 6,
+        "importPath": "app.models.detalleOrdenCompra",
+        "description": "app.models.detalleOrdenCompra",
+        "peekOfCode": "class DetalleOrdenCompra(db.Model):\n    \"\"\"\n    Modelo que representa los detalles de una orden de compra en el sistema.\n    Cada detalle de orden de compra está relacionado con una orden de compra y un producto.\n    Atributos:\n        - id_detalle_compra (int): Identificador único del detalle de orden de compra. Es la clave primaria, y no se puede repetir.\n        - id_orden_compra (int): Identificador de la orden de compra a la que pertenece este detalle (clave foránea).\n        - id_producto (int): Identificador del producto que está siendo comprado en esta orden (clave foránea).\n        - cantidad (int): Cantidad del producto que se está comprando en la orden de compra.\n    \"\"\"",
+        "detail": "app.models.detalleOrdenCompra",
+        "documentation": {}
+    },
+    {
+        "label": "DetalleOrdenVenta",
+        "kind": 6,
+        "importPath": "app.models.detalleOrdenVenta",
+        "description": "app.models.detalleOrdenVenta",
+        "peekOfCode": "class DetalleOrdenVenta(db.Model):\n    \"\"\"\n    Modelo que representa los detalles de una orden de venta en el sistema.\n    Cada detalle de orden de venta está relacionado con una orden de venta y un producto.\n    Atributos:\n        - id_detalle_venta (int): Identificador único del detalle de orden de venta. Es la clave primaria, y no se puede repetir.\n        - id_orden_venta (int): Identificador de la orden de venta a la que pertenece este detalle (clave foránea).\n        - id_producto (int): Identificador del producto que está incluido en esta orden (clave foránea).\n        - cantidad (int): Cantidad de productos específicos que están siendo vendidos en esta orden.\n    \"\"\"",
+        "detail": "app.models.detalleOrdenVenta",
+        "documentation": {}
+    },
+    {
+        "label": "OrdenCompra",
+        "kind": 6,
+        "importPath": "app.models.ordenCompra",
+        "description": "app.models.ordenCompra",
+        "peekOfCode": "class OrdenCompra(db.Model):\n    \"\"\"\n    Modelo que representa una orden de compra en el sistema.\n    Cada orden de compra está relacionada con un proveedor y tiene un estado.\n    Atributos:\n        - id_orden_compra (int): Es el identificador único de la orden de compra. Es la clave primaria (primary key), lo que significa que no puede repetirse.\n        - fecha_inicio (date): La fecha en que la orden de compra empezó o fue creada.\n        - fecha_final (date): La fecha en que la orden de compra finalizó.\n        - estado (str): Indica en qué estado está la orden, como \"completado\", \"pendiente\" o \"cancelado\".\n        - id_proveedor (int): El identificador del proveedor asociado a la orden (clave foránea), que conecta con la tabla de proveedores.",
+        "detail": "app.models.ordenCompra",
+        "documentation": {}
+    },
+    {
+        "label": "OrdenVenta",
+        "kind": 6,
+        "importPath": "app.models.ordenVenta",
+        "description": "app.models.ordenVenta",
+        "peekOfCode": "class OrdenVenta(db.Model):\n    \"\"\"\n    Modelo que representa una orden de venta en el sistema.\n    Cada orden de venta está relacionada con un cliente y tiene un estado.\n    Atributos:\n        - id_orden_venta (int): Es el identificador único de la orden de venta. Es la clave primaria (primary key), lo que significa que no puede repetirse.\n        - fecha_inicio (date): La fecha en que la orden de venta empezó o fue creada.\n        - fecha_final (date): La fecha en que la orden de venta finalizó.\n        - estado (str): Indica en qué estado está la orden, como si está \"completado\", \"pendiente\" o \"cancelado\".\n        - id_cliente (int): El identificador del cliente al que pertenece esta orden de venta. Este campo es una clave foránea (foreign key), lo que significa que se relaciona con la tabla de clientes.",
+        "detail": "app.models.ordenVenta",
+        "documentation": {}
+    },
+    {
+        "label": "Producto",
+        "kind": 6,
+        "importPath": "app.models.producto",
+        "description": "app.models.producto",
+        "peekOfCode": "class Producto(db.Model):\n    \"\"\"\n    Modelo que representa un producto en el sistema.\n    Cada producto tiene un nombre, costo, precio de venta y cantidad disponible.\n    Atributos:\n        id_producto (int): Identificador único del producto (clave primaria).\n        nombre (str): Nombre del producto.\n        costo (float): Costo del producto.\n        precio_venta (float): Precio de venta del producto.\n        cantidad (int): Cantidad disponible del producto.",
+        "detail": "app.models.producto",
+        "documentation": {}
+    },
+    {
+        "label": "Proveedor",
+        "kind": 6,
+        "importPath": "app.models.proveedor",
+        "description": "app.models.proveedor",
+        "peekOfCode": "class Proveedor(db.Model):\n    \"\"\"\n    Modelo que representa un proveedor en el sistema.\n    Cada proveedor tiene un nombre, un contacto, un teléfono y una dirección.\n    Atributos:\n        id_proveedor (int): Identificador único del proveedor (clave primaria).\n        nombre (str): Nombre del proveedor.\n        contacto (str): Nombre de la persona de contacto.\n        telefono (str): Número de teléfono del proveedor.\n        direccion (str): Dirección del proveedor.",
+        "detail": "app.models.proveedor",
+        "documentation": {}
+    },
+    {
+        "label": "ClienteService",
+        "kind": 6,
+        "importPath": "app.services.cliente_service",
+        "description": "app.services.cliente_service",
+        "peekOfCode": "class ClienteService:\n    @staticmethod\n    def create_cliente(nombre, contacto, telefono, direccion):\n        \"\"\"\n        Crear un nuevo cliente.\n        Args:\n            nombre (str): Nombre del cliente.\n            contacto (str): Nombre de la persona de contacto.\n            telefono (str): Número de teléfono del cliente.\n            direccion (str): Dirección del cliente.",
+        "detail": "app.services.cliente_service",
+        "documentation": {}
+    },
+    {
+        "label": "DetalleOrdenCompraService",
+        "kind": 6,
+        "importPath": "app.services.detalle_orden_compra_service",
+        "description": "app.services.detalle_orden_compra_service",
+        "peekOfCode": "class DetalleOrdenCompraService:\n    @staticmethod\n    def create_detalle_orden_compra(id_orden_compra, id_producto, cantidad):\n        \"\"\"\n        Crear un nuevo detalle de orden de compra.\n        Args:\n            id_orden_compra (int): ID de la orden de compra.\n            id_producto (int): ID del producto.\n            cantidad (int): Cantidad del producto.\n        Returns:",
+        "detail": "app.services.detalle_orden_compra_service",
+        "documentation": {}
+    },
+    {
+        "label": "DetalleOrdenVentaService",
+        "kind": 6,
+        "importPath": "app.services.detalle_orden_venta_service",
+        "description": "app.services.detalle_orden_venta_service",
+        "peekOfCode": "class DetalleOrdenVentaService:\n    @staticmethod\n    def create_detalle_orden_venta(id_orden_venta, id_producto, cantidad):\n        \"\"\"\n        Crear un nuevo detalle de orden de venta.\n        Args:\n            id_orden_venta (int): ID de la orden de venta.\n            id_producto (int): ID del producto.\n            cantidad (int): Cantidad del producto.\n        Returns:",
+        "detail": "app.services.detalle_orden_venta_service",
+        "documentation": {}
+    },
+    {
+        "label": "OrdenCompraService",
+        "kind": 6,
+        "importPath": "app.services.orden_compra_service",
+        "description": "app.services.orden_compra_service",
+        "peekOfCode": "class OrdenCompraService:\n    @staticmethod\n    def create_orden_compra(fecha_inicio, fecha_final, estado, id_proveedor):\n        \"\"\"\n        Crear una nueva orden de compra.\n        Args:\n            fecha_inicio (date): Fecha de inicio de la orden.\n            fecha_final (date): Fecha final de la orden.\n            estado (str): Estado de la orden.\n            id_proveedor (int): ID del proveedor asociado a la orden.",
+        "detail": "app.services.orden_compra_service",
+        "documentation": {}
+    },
+    {
+        "label": "OrdenVentaService",
+        "kind": 6,
+        "importPath": "app.services.orden_venta_service",
+        "description": "app.services.orden_venta_service",
+        "peekOfCode": "class OrdenVentaService:\n    @staticmethod\n    def create_orden_venta(fecha_inicio, fecha_final, estado, id_cliente):\n        \"\"\"\n        Crear una nueva orden de venta.\n        Args:\n            fecha_inicio (date): Fecha de inicio de la orden.\n            fecha_final (date): Fecha final de la orden.\n            estado (str): Estado de la orden.\n            id_cliente (int): ID del cliente asociado a la orden.",
+        "detail": "app.services.orden_venta_service",
+        "documentation": {}
+    },
+    {
+        "label": "ProductoService",
+        "kind": 6,
+        "importPath": "app.services.producto_service",
+        "description": "app.services.producto_service",
+        "peekOfCode": "class ProductoService:\n    @staticmethod\n    def create_producto(nombre, costo, precio_venta, cantidad):\n        \"\"\"\n        Crear un nuevo producto.\n        Args:\n            nombre (str): Nombre del producto.\n            costo (float): Costo del producto.\n            precio_venta (float): Precio de venta del producto.\n            cantidad (int): Cantidad disponible del producto.",
+        "detail": "app.services.producto_service",
+        "documentation": {}
+    },
+    {
+        "label": "ProveedorService",
+        "kind": 6,
+        "importPath": "app.services.proveedor_service",
+        "description": "app.services.proveedor_service",
+        "peekOfCode": "class ProveedorService:\n    @staticmethod\n    def create_proveedor(nombre, contacto, telefono, direccion):\n        \"\"\"\n        Crear un nuevo proveedor.\n        Args:\n            nombre (str): Nombre del proveedor.\n            contacto (str): Nombre de la persona de contacto.\n            telefono (str): Número de teléfono del proveedor.\n            direccion (str): Dirección del proveedor.",
+        "detail": "app.services.proveedor_service",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "kind": 6,
+        "importPath": "app.config",
+        "description": "app.config",
+        "peekOfCode": "class Config:\n    \"\"\"\n    Clase Config para manejar la configuración de la aplicación Flask.\n    Carga las variables de entorno desde un archivo .env utilizando `dotenv` y\n    configura las opciones de la base de datos, el sistema de autenticación JWT, \n    y otras configuraciones esenciales de Flask.\n    Atributos:\n        SQLALCHEMY_DATABASE_URI (str): URI para la conexión a la base de datos MySQL.\n        SQLALCHEMY_TRACK_MODIFICATIONS (bool): Deshabilita el seguimiento de modificaciones de objetos en SQLAlchemy para optimizar el rendimiento.\n        SQLALCHEMY_ECHO (bool): Activa la impresión de todas las consultas SQL ejecutadas por la aplicación en la consola, útil para depuración.",
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_engine",
+        "kind": 2,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "def get_engine():\n    try:\n        # this works with Flask-SQLAlchemy<3 and Alchemical\n        return current_app.extensions['migrate'].db.get_engine()\n    except (TypeError, AttributeError):\n        # this works with Flask-SQLAlchemy>=3\n        return current_app.extensions['migrate'].db.engine\ndef get_engine_url():\n    try:\n        return get_engine().url.render_as_string(hide_password=False).replace(",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "get_engine_url",
+        "kind": 2,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "def get_engine_url():\n    try:\n        return get_engine().url.render_as_string(hide_password=False).replace(\n            '%', '%%')\n    except AttributeError:\n        return str(get_engine().url).replace('%', '%%')\n# add your model's MetaData object here\n# for 'autogenerate' support\n# from myapp import mymodel\n# target_metadata = mymodel.Base.metadata",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "get_metadata",
+        "kind": 2,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "def get_metadata():\n    if hasattr(target_db, 'metadatas'):\n        return target_db.metadatas[None]\n    return target_db.metadata\ndef run_migrations_offline():\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL\n    and not an Engine, though an Engine is acceptable\n    here as well.  By skipping the Engine creation\n    we don't even need a DBAPI to be available.",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_offline",
+        "kind": 2,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "def run_migrations_offline():\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL\n    and not an Engine, though an Engine is acceptable\n    here as well.  By skipping the Engine creation\n    we don't even need a DBAPI to be available.\n    Calls to context.execute() here emit the given string to the\n    script output.\n    \"\"\"\n    url = config.get_main_option(\"sqlalchemy.url\")",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_online",
+        "kind": 2,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "def run_migrations_online():\n    \"\"\"Run migrations in 'online' mode.\n    In this scenario we need to create an Engine\n    and associate a connection with the context.\n    \"\"\"\n    # this callback is used to prevent an auto-migration from being generated\n    # when there are no changes to the schema\n    # reference: http://alembic.zzzcomputing.com/en/latest/cookbook.html\n    def process_revision_directives(context, revision, directives):\n        if getattr(config.cmd_opts, 'autogenerate', False):",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "config = context.config\n# Interpret the config file for Python logging.\n# This line sets up loggers basically.\nfileConfig(config.config_file_name)\nlogger = logging.getLogger('alembic.env')\ndef get_engine():\n    try:\n        # this works with Flask-SQLAlchemy<3 and Alchemical\n        return current_app.extensions['migrate'].db.get_engine()\n    except (TypeError, AttributeError):",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "logger = logging.getLogger('alembic.env')\ndef get_engine():\n    try:\n        # this works with Flask-SQLAlchemy<3 and Alchemical\n        return current_app.extensions['migrate'].db.get_engine()\n    except (TypeError, AttributeError):\n        # this works with Flask-SQLAlchemy>=3\n        return current_app.extensions['migrate'].db.engine\ndef get_engine_url():\n    try:",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "target_db",
+        "kind": 5,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "target_db = current_app.extensions['migrate'].db\n# other values from the config, defined by the needs of env.py,\n# can be acquired:\n# my_important_option = config.get_main_option(\"my_important_option\")\n# ... etc.\ndef get_metadata():\n    if hasattr(target_db, 'metadatas'):\n        return target_db.metadatas[None]\n    return target_db.metadata\ndef run_migrations_offline():",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "kind": 6,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "class Config:\n    \"\"\"\n    Clase Config para manejar la configuración de la aplicación Flask.\n    Carga las variables de entorno desde un archivo .env utilizando `dotenv` y\n    configura las opciones de la base de datos, el sistema de autenticación JWT, \n    y otras configuraciones esenciales de Flask.\n    Atributos:\n        SQLALCHEMY_DATABASE_URI (str): URI para la conexión a la base de datos MySQL.\n        SQLALCHEMY_TRACK_MODIFICATIONS (bool): Deshabilita el seguimiento de modificaciones de objetos en SQLAlchemy para optimizar el rendimiento.\n        SQLALCHEMY_ECHO (bool): Activa la impresión de todas las consultas SQL ejecutadas por la aplicación en la consola, útil para depuración.",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "run",
+        "description": "run",
+        "peekOfCode": "app = create_app()\n# Punto de entrada principal para ejecutar la aplicación\nif __name__ == '__main__':\n    # Ejecutar la aplicación Flask con el modo debug activado\n    app.run(debug=True)",
+        "detail": "run",
+        "documentation": {}
+    }
+]
